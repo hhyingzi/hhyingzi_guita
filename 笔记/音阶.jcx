@@ -1,0 +1,13 @@
+%MUSE2
+T: 音阶
+M: 4/4
+L: 1/4
+K: C
+V:1 style=staff name=五线谱 play=1 instrument=24 volumn=127 space=0 %space:行间距默认40
+[V: 1]E,F,G,A,B,CDEFGABcdefg||abc'd'e'f'g'
+w: e f g a b c1 d1 e1 f1 g1 a1 b1 c2 d2 e2 f2 g2 a2 b2 c3 d3 e3 e4 e5
+w: 3, 4, 5, 6, 7, 1 2 3 4 5 6 7 1' 2' 3' 4' 5' 6' 7' 1" 2" 3" 4" 5"
+
+V:2 style=tab name=六线谱
+[V: 2] f0f1f3e0e2e3d0d2d3c0c2b0b1b3a0a1a3 a5a7a8a10a12a13a15
+

@@ -1,0 +1,50 @@
+%MUSE2
+T: C调和弦
+M: 4/4
+L: 1/4
+K: C
+
+V:1 style=tab name=六线谱 play=1 instrument=0 volumn=64
+V:2 style=staff name=五线谱 play=0
+V:3 style=jianpu name=简谱 play=0
+
+[V: 1]
+	"_- 3 2 - 1 -""C"[a0b1c0d2e3]		| %C
+	"_- - - 2 4 1""Dm"[a1b3c2d0]  		| %Dm
+	"_- 2 3 - - -""Em"[a0b0c0d2e2f0]	| %Em
+	"_- - 3 2 1 1""F"[a1b1c2d3]			| %F
+	"_3 2 - - - 4""G"[a3b0c0d0e2f3]		| %G
+	"_- - 2 3 1 -""Am"[a0b1c2d2e0]		||%Am
+	
+	"_- 2 3 1 - -""E"[a0b0c1b2e2f0]		| %E
+	"_- - 3 2 1 -""Fmaj7"[a0b1c2d3]		| %Fmaj7 可代替比较困难的F和弦
+	
+	
+	
+[V: 2]
+	[CEGce]			| %C
+	[DAdf]			| %Dm
+	[E,B,EGBe]		| %Em
+	[FAcf]			| %F
+	[G,B,DGBg]		| %G
+	[A,EAce]		|| %Am
+	
+	[E,B,E^GBe]		| %E
+	[FAce]			| %Fmaj7 可代替比较困难的F和弦
+	
+[V: 3]
+	C/// E/// G/// c/// e/// z3/8			| %C
+	D/// A/// d/// f/// z4/8				| %Dm
+	E,/// B,/// E/// G/// B/// e///	z2/8	| %Em
+	F/// A/// c/// f/// z4/8				| %F
+	G,/// B,/// D/// G/// B/// g///	z2/8	| %G
+	A,/// E/// A/// c/// e/// z3/8			|| %Am
+
+	E,/// B,/// E/// ^G/// B/// e/// z2/8	| %E
+	F/// A/// c/// e/// z4/8				| %Fmaj7
+	
+
+
+	
+	
+
