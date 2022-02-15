@@ -1,13 +1,10 @@
 %MUSE2
-T: 和弦分解
+T: 弹奏技巧
 M: 4/4
 L: 1/4
 K: C
 
-V: 4 style=stuff space=10 name=和弦分解
+V: 1 style=stuff space=10
 
 
-[V: 4]
-	"C"CGcGeGcG |
-	"Am"A,AcAeAcA |
-	"F"FAcAfAcA |
+[V: 1]
