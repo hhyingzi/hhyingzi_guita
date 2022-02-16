@@ -1,0 +1,170 @@
+%MUSE2
+T: 《星晴》-周杰伦
+M: 4/4
+L: 1/4
+K: C
+
+%%gchord F9=1;0,0,3,0,1,3
+%%gchord Dadd9&=1;X,X,0,2,3,0
+%%gchord Bm7=2;X,1,3,0,2,1
+%%gchord Am7=1;X,0,2,0,1,0
+%%gchord G/B=1;X,2,0,0,3,3
+%%gchord Em7$=1;0,0,2,0,3,3
+%%gchord Em7=1;0,X,0,0,3,3
+%%gchord Cadd9$=1;X,3,2,0,3,3
+%%gchord Cadd9=1;X,3,2,0,3,0
+%%gchord G=1;3,2,0,0,3,3
+%%gchord bD/bB=1;X,1,0,1,2,1
+%%gchord Ammaj7=1;X,0,2,1,1,0
+%%gchord G/#F=3;2(2),0,0,0,3(3),3(4)
+V:1 style=tab name=吉他 play=0
+V:2 style=jianpu play=1 instrument=1 volumn=100 name=简谱
+
+% 打板：!$f'MAESTRO'$s'40'\222!!!!!
+
+% 第1行
+[V: 1]
+	"G"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!!!!!!!![ax/bx/cx/][axbxcx/] - [axbxcx/]cx/ ax/cx/ | 
+	"Cadd9$"ex/[ax/bx/cx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/][axbxcx/]-[axbxcx/]cx/ ax/cx/ | 
+"Em7"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/][axbxcx/]-[axbxcx/]cx/ ax/cx/ | 
+"Cadd9$"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/][axbxcx/] - [axbxcx/]c0/  b1//-P-b0//c0/ |
+[V: 2]
+	C/C/ G/C/ E/C/ G/C/ | E/C/ G/F/ E C |C/C/ G/C/ E/C/ G/C/ | E/C/ G/F/ E C |
+w: （一步两步三步四步望着天上牵手，一颗两颗三颗四颗连成线看星星）
+
+% 第2行
+[V: 1]
+	"G"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!!!![ax/bx/cx/][axbxcx/] - [axbxcx/]cx/ ax/cx/ | 
+	"Cadd9$"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/][axbxcx/]-[axbxcx/]cx/ ax/cx/ | 
+	"Em7"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/][axbxcx/]-[axbxcx/]cx/ ax/cx/ | 
+	"Cadd9$"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/][axbxcx/] - [axbxcx/]cx/  ax/cx/ |
+[V: 2]
+	C/C/ G/C/ E/C/ G/C/ | E/C/ G/F/ E C |C/C/ G/C/ E/C/ G/C/ | E/C/ G/F/ E C |
+w: （一步两步三步四步望着天上牵手，一颗两颗三颗四颗连成线看星星)
+
+
+% 第3行
+[V: 1]
+	"G"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][bxcxdxfx/] - [bxcxdxfx] - [bxcxdxfx] | 
+	"G/#F"fx/[ax/bx/cx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][bxcxdxfx/] - [bxcxdxfx] - [bxcxdxfx] |
+"Em7$"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][bxcxdxfx/] - [bxcxdxfx] - [bxcxdxfx] | 
+	"D"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][bxcxdxfx/] - [bxcxdxfx/]e0//-H-e2// d0//-H-d2// c0/ |
+[V: 2]
+	Z E/E/ E D/C/ | D G,/A,/ - A,/B,/ - B, | Z C/C/ C B,/A,/ | B, C/D/ - D/(E/ D//C//A,//G,//) | 
+w: 乘着风游荡在蓝天*边，*一片云掉落在我面*前，
+
+% 第4行
+[V: 1]
+	"Cadd9$"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!!!![ax/bx/cx/][axbxcx/] - [axbxcx/]cx/ ax/cx/ | 
+"G/B"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/][axbxcx/]-[axbxcx/]cx/ ax/cx/ | 
+"Am7"ex/[ax/bx/cx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/][axbxcx/]-[axbxcx/]cx/ ax/cx/ | 
+	"D"[a0b0c0d0] [a0b0c0d0] - [a0b0c0d0] - [a0b0c0d0] |
+[V: 2]
+	Z F/F/ F/E/ E/D/ | Z E/E/ E/D/ C | C/A,/ C/A,/ C/D/ C/D/ | - D/-E/ - E G/-F/ E/-D/ | 
+w: 捏成你的形状，随风跟着我，一口一口吃掉忧愁。***呼*呼*
+
+% 第5行
+[V: 1]
+	|:    "G"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"G/#F"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"Em7"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"D"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+[V: 2]
+	C E/E/ E D/C/ | D G/A/ - G/G/ - G//-A3/4 | Z/C/ C/C/ C B,/A,/ | B, E/F/ - F/E/ - (E//D//C/)
+w: 呼。载着你仿佛载着阳*光，**而不管到哪里都是晴*天，|
+
+% 第6行
+[V: 1]
+"Cadd9$"fx/[ax/bx/cx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"G/B"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"Am7"ex/[bxcxdx/] !$f'MAESTRO'$s'40'\222!!![bx/cx/dx/][bxcxdxex/] - [bxcxdxex/][bxcxdx/] !$f'MAESTRO'$s'40'\222!!![bx/cx/dx/][bxcxdx/] |
+	"Dsus4"[a0b0c0d0] [a0b0c0d0] - [a0b0c0d0] - [a0b0c0d0] |
+[V: 2]
+	Z/A,/ F/F/ F/E/ D/-C/ | Z E/E/ E/D/ C | C/A,/ C/A,/ C/D/ C/D/ - | D/-E/ - E Z/E/- D/D/ |
+w: 而蝴蝶自在飞，*花也布满天，一朵一朵因你而香。***试*图|
+
+% 第7行
+[V: 1]
+	"Cadd9$"ex/bx/ cx/bx/ - bx/cx/ dx/bx/ |
+	"D/C"ex/cx/ bx/ax/ - ax/bx/ cx/bx/ | 
+"Bm7"ex/dx/ bx/ax/ - ax/bx/ cx/bx/ |
+	"E"fx/cx/ bx/ax/ - ax/bx/ cx/bx/ |
+[V: 2]
+	C/D/ - D/E/ - E/A/ - A/B/ | -B/-D/ - D B A | B/G/ - G/A/ - A _B/A/ - | A A/-G/ - G G/-F/- |
+w: 让夕*阳*飞*翔，***带领你我*环*绕大*自**然，*
+
+% 第8行
+[V: 1]
+	"Am"ex/cx/ bx/ax/ - ax/cx/ bx/cx/ |
+	"Ammaj7"ex/cx/ bx/ax/ - ax/cx/ bx/cx/ |
+	"Am7"ex/cx/ bx/ax/ - ax/cx/ bx/cx/ |
+	"D"B[f0a0] B[f0a0] - B[f0a0] - B[f0a0] | 
+	
+[V: 2]
+	F2 Z/E/ F/F/ - | F2 Z/D/ E/F/ - | F/G/ - G/A/ - A/c/ - c/e/ - | d2 Z/G/ G/G/ |
+w: *迎着风，*开始共*度*每*一*天。*手牵手
+
+% 第9行
+[V: 1]
+	"G"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"Bm7"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"Em7"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"D"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+[V: 2]
+	G/C/ C/D/ D/E/ E/F/ | F/G/ G Z/G/ A/B/ | B/c/ c/B/ B/A/ A/G/ | E/F/ G Z/A/ B/c/ - |
+w: 一步两步三步四步望着天，看星星一颗两颗三颗四颗连成线，背对背
+
+% 第10行
+[V: 1]
+"Cadd9$"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/]([ax/bx/cx/ex/] [ax/bx/cx/ex/])[cx/bx/ax/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][cx/bx/ax/] | 
+	"G/B"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![cx/bx/ax/]([ax/bx/cx/ex/] [ax/bx/cx/ex/])[cx/bx/ax/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][cx/bx/ax/] | 
+	"Am7"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/]([ax/bx/cx/ex/][ax/bx/cx/ex/])[cx/bx/ax/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][cx/bx/ax/] | 
+	"Dsus4"[axbxcxdx] [axbxcxdx] - [axbxcxdx/]e0/ e0//-H-e2//d0/ |
+[V: 2]
+	c c/c/ c/B/ A/G/ - | G Z/G/ G/F/ E/F/ - | F G/G/ A F/D/ - | D2 Z/G/ G/G/ | 
+w: *默默许下心愿，*看远方的星*是否听得见。*手牵手
+
+% 第11行
+[V: 1]
+	"G"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"Bm7"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"Em7"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxfx/] - [axbxcxfx/][axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcx/] |
+	"D"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][bxcxdx/] - [bxcxdx/]e0//-H-e2// d0//-H-d2//c0/ |
+[V: 2]
+	G/C/ C/D/ D/E/ E/F/ | F/G/ G Z/G/ A/B/ | B/c/ c/B/ B/A/A/G/ | E/F/ G Z/A/ B/c/ - | 
+w: 一步两步三步四步望着天，看星星一颗两颗三颗四颗连成线，背对背
+
+% 第12行
+[V: 1]
+	"Cadd9$"fx/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!!!![ax/bx/cx/]([ax/bx/cx/ex/] [ax/bx/cx/ex/])[cx/bx/ax/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][cx/bx/ax/] | 
+	"G/B"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/]([ax/bx/cx/ex/][ax/bx/cx/ex/])[cx/bx/ax/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][cx/bx/ax/] | 
+	"Am7"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!!!!!![ax/bx/cx/]([ax/bx/cx/ex/][ax/bx/cx/ex/])[cx/bx/ax/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][cx/bx/ax/] | 
+	"Dsus4"[axbxcxdx/]cx/ bx/cx/ z*2 
+[V: 2]
+	c c/c/ c/B/ A/G/ | - G Z/G/ G/d/ B/c/ - | c C/D/ E F/D/ - | D Z/G,/ F/E/ D/C/ ||
+w: *默默许下心愿，*看远方的星*如果听得见，*它一定实现。
+
+% 第13行
+[V: 1]
+|[1				"Cadd9$"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxex/] - [axbxcxex/]cx/ ax/bx/ | 
+	"D/C"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxex/] - [axbxcxex/]cx/ a0//-H-a2//b3/ | 
+	"Bm7"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxex/] - [axbxcxex/]cx/ ax/bx/ | 
+	"bD/bB"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxex/] - [axbxcxex/]cx/ ax/bx/ | 
+[V: 2]
+	G3/2 c/-c z/C/ | Z/B/ Z/B/ - B A//B//G/ | Z/B/ Z/B/ - B2 | Z/_A/ Z/A/ - A2 |
+
+% 第14行、15行
+[V: 1]
+	"Am"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxex/] - [axbxcxex/]bx/ cx/bx/ | 
+	"Ammaj7"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxex/] - [axbxcxex/]bx/ cx/bx/ | 
+	"Am7"ex/[axbxcx/] !$f'MAESTRO'$s'40'\222!!![ax/bx/cx/][axbxcxex/] - [axbxcxex/]bx/ cx/bx/ | 
+"Dadd9&"B[fxax] B[fxax] B[fxax] B[fxax] :|
+[V: 2]
+	Z/A/ Z/A/ - A2 | Z/A/ Z/A/ - A2 | Z/A/ Z/A/ - A2 | G,2 B/-A/ G/-F/ :|
+w: **********呼*呼*
+
+[V: 1]
+|[2				"G"fx [axbxcx/][axbxcx/]  "F9"d3//c0//b1//a3//    "Em"d2//c0//b1//-P-b0// | 
+	"G"fx B[axfx] B[axfx] B[axfx] "Fine"||
+[V: 2]
+	C c/c/ _B,//C//F//C// A//C//F//E// | C4
