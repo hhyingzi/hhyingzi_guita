@@ -1,0 +1,29 @@
+%MUSE2
+T: 天空之城单音
+M: 4/4
+L: 1/4
+K: G
+%   1					| 2						| 3					| 4 				| 5 					| 6 					| 7 				|
+V:1 style=tab name=吉他 play=0
+[V: 1]
+	a0/a2/ 				| a3*3/2 a2/ a3 a7 		| a2 z z b0 		| a0*3/2 b3/ a0 a3 	| b3 z z b0 			| b1*3/2 b0/ b1 a3 		| b0 z z/a3/ a3/a0/ |
+	a2*3/2 b2/ b2 a2	| a2 z z a0/a2/ 		| a3*3/2 a2/ a3 a7 	| a2 z z b0 		| a0*3/2 b3/ a0 a3 		| b3 z z b0 			| b1 a3/a2/ - a2 a3 	|
+	a5/ a5 a7/ a3 z 	| a3/a2/ a0/a0/ a2 b4 	| a0 z z a3/a5/ 	| a7*3/2 a5/ a7 a10 | a5 z z b3/b3/ 		| a3*3/2 a2/ a3 a7		| a7 z z z 			|
+	a0/a2/ a3 a2/a3/ a5 | a3*3/2 b3/ a7 z 		| a8 a7 a5 a3 		| a7 z z a7 		| a12 z a10 - a10/a10/ 	| a7/ a5/ a3 z z/a3/ 	| a5*3/2 a3/ a5 a10 |
+	a7 z z a7 			| a12 z a10 - a10/a10/ 	| a7/a5/ a3 z z/a3/	| a5*3/2 a3/ a5 a2 	| a0 z z 				||
+
+V:2 style=jianpu name=简谱 play=1 instrument=0 volumn=64
+[V: 2]
+	A/B/ 				| c3/2 B/ c e 			| B z z E 			| A3/2 G/ A c 		| G z z E 				| F3/2 E/ F c 			| E z z/c/c/A/ 		|
+	B3/2 #^F/ #^F B 	| B z z A/B/ 			| c3/2 B/ c e 		| B Z Z E 			| A3/2 G/ A c 			| G Z Z E 				| F c/B/ - B c 		| 
+	d/ d e/ c Z 		| c/B/A/A/ B #^G 		| A Z Z c/d/		| e3/2 d/ e g		| d Z Z G/G/			| c3/2 B/ c e			| e Z Z Z			|
+	A/B/ c B/c/ d		| c3/2 G/ e Z			| f e d c			| e Z Z e			| a Z g - g/g/ 			| e/d/ c Z Z/c/			| d3/2 c/ d g		|
+	e Z Z e				| a Z g - g/g/ 			| e/d/ c Z Z/c/		| d3/2 c/ d B		| A Z Z 				||
+
+V:3 style=staff name=五线谱
+[V: 3]
+	A/B/ 				| c3/2 B/ c e 			| B z z E 			| A3/2 G/ A c 		| G z z E 				| F3/2 E/ F c 			| E z z/c/c/A/ 		|
+	B3/2 #^F/ #^F B 	| B z z A/B/ 			| c3/2 B/ c e 		| B Z Z E 			| A3/2 G/ A c 			| G Z Z E 				| F c/B/ - B c 		| 
+	d/ d e/ c Z 		| c/B/A/A/ B #^G 		| A Z Z c/d/		| e3/2 d/ e g		| d Z Z G/G/			| c3/2 B/ c e			| e Z Z Z			|
+	A/B/ c B/c/ d		| c3/2 G/ e Z			| f e d c			| e Z Z e			| a Z g - g/g/			| e/d/ c Z Z/c/			| d3/2 c/ d g		|
+	e Z Z e				| a Z g - g/g/ 			| e/d/ c Z Z/c/		| d3/2 c/ d B		| A Z Z 				||
